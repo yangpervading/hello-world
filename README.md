@@ -1,2 +1,3 @@
-# hello-world
-a basic project
+hello-world
+============
+hi,this is my first programe
